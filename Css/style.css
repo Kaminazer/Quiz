@@ -1,0 +1,53 @@
+body{
+    background: #E2E2E2;
+}
+
+header {
+    background: #403F85;
+    width: 100%;
+    height: 10%;
+
+}
+
+.header-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+table {
+    width: 100%;
+}
+
+.spacing{
+    border-collapse: unset;
+    border-spacing: 20px;
+}
+
+.box{
+    background: white;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+td, th {
+    padding: 18px 21px;
+    text-align: center;
+    background: #E0E0E0;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+
